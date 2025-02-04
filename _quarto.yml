@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Grace Bettenburg"
+  page-footer:
+    left: |
+      &copy; Brianna Heggeseth, 2024<br>
+      All content licensed under <i class='bi-badge-cc'></i>
+      [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+    right: |
+      Site built with <a href='https://quarto.org/'>Quarto</a>
+  navbar:
+    background: "#8B636C"
+    foreground: "#FFC0CB"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: essays.qmd
+        text: Essays
+      - href: projects.qmd
+        text: Projects
+
+format:
+  html:
+    theme: yeti.scss
+    css: styles.css
+    toc: true
+
+editor: visual

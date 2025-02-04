@@ -1,0 +1,25 @@
+---
+title: "Grace Bettenburg's Website"
+about:
+  id: intro-heading
+  template: broadside
+  image: images/IMG_0798.JPG
+  links:
+    - icon: substack
+      href: http://substack.com/@mintgreenbee
+    - icon: github
+      href: https://github.com/Gbettenburg
+---
+
+:::{#intro-heading}
+
+Welcome to my page! My name is Grace Bettenburg, and I am a junior at Macalester College in Saint Paul. I will be graduating in the spring of 2026 with a major in Archaeological Sciences and a minor in Statistics. Afterward, I will likely pursue a masters in Digital Archaeology. 
+
+## Education
+
+Macalester College | St. Paul MN <br>
+B.A. in Archaeological Sciences | Sept 2022 - May 2026
+
+
+:::
+

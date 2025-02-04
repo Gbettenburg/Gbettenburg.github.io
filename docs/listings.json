@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/Sample_Project/index.html"
+    ]
+  },
+  {
+    "listing": "/essays.html",
+    "items": [
+      "/essays/Sample_Essay/index.html"
+    ]
+  }
+]

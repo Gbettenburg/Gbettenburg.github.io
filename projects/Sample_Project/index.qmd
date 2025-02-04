@@ -1,0 +1,18 @@
+---
+title: "NAM Project"
+description: "A ArcGIS storyboard analysing the National archaeological Museum of athen's online data base"
+image: featured.png
+image-alt: A Relative Distribution Barplot of Sub-stylistic Periods
+categories:
+  - Art History
+  - Statistics
+about:
+  template: broadside
+  image: featured.png
+---
+
+## An brief analysis of the online Greek sculpture collection of the National Archaeological Museum of Athens
+
+This storyboard was created by \[Grace Bettenburg\](https://github.com/Gbettenburg)
+
+\[Check out the website here.\](<https://storymaps.arcgis.com/stories/3beaf385f9b94505aa20a75d6f8ab59b>)
